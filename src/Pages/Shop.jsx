@@ -1,10 +1,10 @@
 import React from 'react'
 import Hero from '../Component/Hero/Hero'
 
-const shop = () => {
+const Shop = () => {
   return (
     <div> <Hero/> </div>
   )
 }
 
-export default shop
+export default Shop
